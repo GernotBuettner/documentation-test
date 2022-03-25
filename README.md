@@ -1,3 +1,3 @@
-# documentation
+# README
 
-Overview
+Just a readme, not the documentation.
